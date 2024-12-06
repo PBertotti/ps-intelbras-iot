@@ -60,7 +60,7 @@ Recebe as mensagens de telemetria veicular do Kafka.
 Processa as mensagens de acordo com as necessidades do projeto (análise, armazenamento, exibição, etc.). 
 
 
-<h2>Resultado esperado: </h2>Sistema de envio e recebimento de dados em tempo-real, através de plataforma de streaming de dados Kafka com suporte a monitoramento de tráfego de informações através de Interface Gráfica(GUI, CLI, UI). 
+<h2>Resultado esperado: </h2>Sistema de envio e recebimento de dados em tempo-real, através de plataforma de mensageria de dados Kafka com suporte a monitoramento de tráfego de informações através de Interface Gráfica ou de Comando(GUI, CLI, UI). 
 
  
 A aplicação deverá ser publicada em uma página do Github e enviada para o e-mail paulo.cora@intelbras.com.br até o dia 09/12/2025 às 17:00h. 
